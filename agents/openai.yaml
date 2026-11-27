@@ -1,0 +1,4 @@
+interface:
+  display_name: "seedance 2.5 提示词skill"
+  short_description: "将已有全局稿和剧本或分镜编译为横竖屏通用的逐镜提示词画布"
+  default_prompt: "用 $seedance-2-5-prompt-skill 把这份全局稿和分镜编译为逐场画布。"
